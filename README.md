@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">👨‍💻 About Me<br><br>🧠 Background & Experience  <br>I am Rodrigo Gangone, a developer with over 7 years of experience working with Android Studio, contributing to high-impact projects for companies like Santander Río, Banco Hipotecario, FINDO (a lending platform active in several Latin American countries), Clarín, Olé, and 365, among others.<br><br>🎓 Education & Skills  <br>I am currently finishing my degree in Virtual Simulators Design and Programming at Escuela de Arte Multimedial DaVinci, where I gained skills in C#, Unity, Unreal Engine, and 3D modeling tools like Maya, ZBrush, and Substance Painter. Through this education, I’ve collaborated on several team-based video game projects, combining programming and visual design.<br><br>🚀 Goals & Opportunities  <br>I’m looking to join challenging projects that allow me to grow professionally and contribute both technically and creatively. I'm open to collaborations, freelance opportunities, or full-time positions.<br><br>📬 Contact  <br>Feel free to reach out if you’d like to work together!</p>
+<p align="left">👨‍💻 About Me<br><br>🧠 Background & Experience  <br>I am Rodrigo Gangone, a developer with over 7 years of experience working with Android Studio, contributing to high-impact projects for companies like Santander Río, Banco Hipotecario, FINDO (a lending platform active in several Latin American countries), Clarín, Olé, and 365, among others.<br><br>🎓 Education & Skills  <br>I am currently finishing my degree in Virtual Simulators Design and Programming at Escuela de Arte Multimedial DaVinci, where I gained skills in C#, Unity, Unreal Engine, and 3D modeling tools like Maya, ZBrush, and Substance Painter. Through this education, I’ve collaborated on several team-based video game projects, combining programming and visual design.<br><br>🚀 Goals & Opportunities  <br>I’m looking to join challenging projects that allow me to grow professionally and contribute both technically and creatively. I'm open to collaborations, freelance opportunities, or full-time positions.<br><br>📬 Contact  <br>Feel free to reach out if you’d like to work together!<br><br><br>🎮 Project from my Da Vinci account<br><br>TowerDefense<br>https://github.com/RodrigoGangoneDavinci/TowerDefense</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoGangone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoGangone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
 ###
